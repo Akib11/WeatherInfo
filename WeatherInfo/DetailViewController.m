@@ -72,8 +72,7 @@
     FXBlurView *_blurView = [[FXBlurView alloc] initWithFrame:CGRectMake(self.view.frame.origin.x, self.view.frame.origin.y, self.view.frame.size.width, self.scrollView.frame.size.height)];
     _blurView.blurRadius = 80.f;
     [self.view insertSubview:_blurView atIndex:0];
-    NSLog(@"*****%f",self.scrollView.frame.size.width);
-     NSLog(@"****%f",_blurView.frame.size.width);
+
    // NSLog(@"****/n%@",self.Weathers);
   
     self.collectionView.delegate = self;
