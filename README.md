@@ -1,6 +1,6 @@
 # WeatherInfo 
 
-![alt tag](http://www.akibios.co.uk/img/portfolio/WeatherInfo.png)
+![alt tag](https://www.akibmakesapps.co.uk/img/portfolio/WeatherInfo.png)
 
 ##Descripiton
 "WeatherInfo" App has been designed for monitoring live weather.
